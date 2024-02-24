@@ -1,6 +1,6 @@
 <h1>Rock, Paper, Scissors Game</h1>
 
-This game is made in Javascript and is built to be played in the jaascript <strong>Alert Dialog</strong>
+This game is made in Javascript and is built to be played in the javascript <strong>Alert Dialog</strong>
 
 The player gets a chance to play Rock, Papper, Scissors with your own pc or computer, and gets the privilege to play first.
 <br>
