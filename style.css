@@ -6,3 +6,7 @@ body {
     margin: 0; /* Remove default margin */
     font-family: 'Courier New', Courier, monospace;
 }
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
